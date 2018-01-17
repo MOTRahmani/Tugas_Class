@@ -34,4 +34,8 @@ cout << "Musim gugur"<<endl;
 cout << (musim_gugur.pertanda)<<endl;
 musim_gugur.perbedaannya("Temperatur suhu agak dingin");
 cout <<endl;
+
+cout << "Musim Salju"<<endl;
+cout << (musim_salju.pertanda)<<endl;
+musim_salju.perbedaannya("Dimana terlihat salju menumpuk yang memikat untuk dimainkan");
 }
