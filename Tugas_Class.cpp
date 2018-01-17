@@ -29,4 +29,9 @@ cout << "Musim dingin / Musim hujan"<<endl;
 cout << (musim_hujan.pertanda)<<endl;
 musim_hujan.perbedaannya("Sering hujan dan bisa mengakibatkan terjadi banjir");
 cout <<endl;
+
+cout << "Musim gugur"<<endl;
+cout << (musim_gugur.pertanda)<<endl;
+musim_gugur.perbedaannya("Temperatur suhu agak dingin");
+cout <<endl;
 }
