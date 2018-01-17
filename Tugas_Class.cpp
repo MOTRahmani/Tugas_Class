@@ -24,4 +24,9 @@ cout << "Musim kemarau / Musim panas"<<endl;
 cout << (musim_panas.pertanda)<<endl;
 musim_panas.perbedaannya("Jarang ada nya hujan");
 cout <<endl;
+
+cout << "Musim dingin / Musim hujan"<<endl;
+cout << (musim_hujan.pertanda)<<endl;
+musim_hujan.perbedaannya("Sering hujan dan bisa mengakibatkan terjadi banjir");
+cout <<endl;
 }
