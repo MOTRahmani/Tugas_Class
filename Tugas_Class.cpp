@@ -8,5 +8,5 @@ class musim{
 		string pertanda;
 
 int main(){
-	
+	musim musim_panas, musim_hujan, musim_gugur, musim_salju;
 }
