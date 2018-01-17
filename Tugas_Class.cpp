@@ -19,4 +19,9 @@ int main(){
 	musim_hujan.lama_musim=6;
 	musim_gugur.lama_musim=1;
 	musim_salju.lama_musim=1;
+	
+cout << "Musim kemarau / Musim panas"<<endl;	
+cout << (musim_panas.pertanda)<<endl;
+musim_panas.perbedaannya("Jarang ada nya hujan");
+cout <<endl;
 }
