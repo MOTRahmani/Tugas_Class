@@ -39,3 +39,11 @@ cout << "Musim Salju"<<endl;
 cout << (musim_salju.pertanda)<<endl;
 musim_salju.perbedaannya("Dimana terlihat salju menumpuk yang memikat untuk dimainkan");
 }
+
+void musim::perbedaannya(string cuaca){
+	cout << "Perbedaannya "<< pertanda<<" !!"<<endl;
+	cout << "Informasinya "<< cuaca <<" !!"<<endl;
+	cout << "Lama Musimnya "<< lama_musim <<" Bulan !!"<<endl;
+	
+}
+	
