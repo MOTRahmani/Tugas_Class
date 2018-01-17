@@ -14,4 +14,9 @@ int main(){
 	musim_hujan.pertanda="Akan sering turun hujan";
 	musim_gugur.pertanda="dedaunan mulai berguguran";
 	musim_salju.pertanda="turunnya butir-butir salju";
+	
+	musim_panas.lama_musim=5;
+	musim_hujan.lama_musim=6;
+	musim_gugur.lama_musim=1;
+	musim_salju.lama_musim=1;
 }
